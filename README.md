@@ -1,7 +1,8 @@
 ## Olá, eu sou William Marques, seja bem vindo(a) ao meu perfil!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Estácio de Sá e estudo programação na Alura.
-ainda estou em desenvolvimento das minhas habilidades, pois trabalhei por 15 anos no comércio como vendedor.
+
+Ainda estou trabalhando no desenvolvimento das minhas habilidades, pois trabalhei por 15 anos no comércio e recentemente decidi mudar minha área de atuação de vendedor para Dev.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
