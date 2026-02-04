@@ -24,15 +24,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e estudo programação
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-s-marques&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-s-marques&layout=compact&hide_border=true&theme=omni&langs_count=8"/>
-</div>
-
----
-
 ### ⚡ Interesses Pessoais
 Quando não estou codando, gosto de aproveitar meu tempo com:
 *   🎮 Jogos
